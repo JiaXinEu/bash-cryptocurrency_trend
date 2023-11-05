@@ -1,0 +1,1 @@
+# bash-cryptocurrency_trend
