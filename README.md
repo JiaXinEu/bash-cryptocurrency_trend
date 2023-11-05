@@ -1,3 +1,13 @@
 # Cryptocurrency Trend
 
-A simple project using bash scripting, mysql, crontab and gnuplot
+### Tech stacks
+- bash scripting
+- mysql
+- crontab
+- gnuplot
+
+### Features
+- text processing from html file
+- database storage
+- scheduled job
+- graph plotting to show trends
